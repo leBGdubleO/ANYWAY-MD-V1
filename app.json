@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"MR-ANYWAY-MD",
+      "value":"MR-ASSASSIN-MD",
       "required":false
 
     } ,
@@ -49,7 +49,7 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"yes",
+      "value":"no",
       "required":false
     }
 	,
@@ -65,7 +65,7 @@
     "SESSION_ID":
     {
       "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "value":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT045M21adHBNOHdIS2VEN05FM2VzaUIvdDRVenA2Nk1NWU9vby9DUXdHdz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiYSt1V0IycXgzZGdQcVJHRWRzN1lvVkRaeXQvSXdDNHN0aC9MVDJaK3dFVT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ1RTRncHRYUzl6bjNPU3VsWG1oM1grNldsZ0VXbDJlUDZ2SVg4RVVIV2w0PSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwbTZXOTJFWTBuMmU2cE5Na01CZUJYajZ2WFhGWFNva3pnYzdjejFMZEJRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1OM1lUNGptQyt1ajBCMXNFVFFyNklHUE5zaDlPd2NZZENkb0xTWFJmMk09In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Im9lSTl2T00xL25kODJLY29ETUkwTUpLUmNrQjRXS21VaTJ0WVR6UGU2Mms9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQUgvUVFVeFRjdEh0dklTc1dKMEhLaHJtWlpONHI0RGI4VFlGdkdpN3dHbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUlpHbTAyd0R0a3g4MENrc0xmNXNjWVZ4dCtJQ3cyNE12d1lnajhaRVNCTT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjloL0FSRExob1hwblRUQk9QbzNyTU5KbkF2UVhSTW1jUGIrNkRKazdNK2YvbjNYbmZzZW9kRjNHcUkzbGlOTzFreHJST3B2WG1GZDhwanlFRm0wbWpRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6ODQsImFkdlNlY3JldEtleSI6IkxvL1RVZURkVmZsNlBLLzRNeENJQUJVK1hxZHlTYnNhRm03QUR5K2U4MTg9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6Im9FS2xKU2sxUjR1Z2FaWXRndUt0Y0EiLCJwaG9uZUlkIjoiODI4N2VjMTUtY2NmNy00ZTM1LTk5NTUtMzJmOTUwZTJhZjhmIiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IjM0dmFLQml3Yis4K2JpR2tSS1hxejQ2QUdsOD0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyS3BQaTlNOExZUDZQemJqV0taTlpDdjFnOGc9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiMzVaWU5TNUoiLCJtZSI6eyJpZCI6IjUwOTQzNTA0NDYzOjUyQHMud2hhdHNhcHAubmV0IiwibmFtZSI6Ik1SIEFTU0FTU0lOIPCWo5gg8J2Qt/Cdm6/wnZul8J2Rh/Cdm6jwkoiS8JOEv82ezZ/Nns2f4LySIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNJZkZyT3NIRUlXSjJMa0dHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJDZjc3amU5QnpWdjlxL094c3dRdnNYaWZkREtZWDJPSXRqNHFvRWJJMkhjPSIsImFjY291bnRTaWduYXR1cmUiOiJ1azZKS2ZkKzk1MGRHZmlvdlpFUm9GNjlFN08wUXJRb3FsK2QrSGRNSSs3Y29wZ2ZubkN5eGFtRzZ2ckkvYkt4UUpxOExneTJhcUNxOXVJNUFlT1lCQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiSHFYYnFwVVY5b0JqbDE2ZmF4L01BVHR5c1M4UjB6S011Ynd6aTBaQnZac3NRejd5d1JLNERtN1Mwd1NBWHcxQmFvVW5PbnAwYzAvRzNCYXJFRGlyamc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiI1MDk0MzUwNDQ2Mzo1MkBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRbisrNDN2UWMxYi9hdnpzYk1FTDdGNG4zUXltRjlqaUxZK0txQkd5TmgzIn19XSwicGxhdGZvcm0iOiJzbWJhIiwibGFzdEFjY291bnRTeW5jVGltZXN0YW1wIjoxNzMxNTkzMzY0fQ==",
       "required":true
       
     },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Mr Anyway"
+    "value": "Mr Assasin 𝐷𝛯𝛥𝑇𝛨"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255678892560,255762190568"
+    "value": "50943504463"
   },
     "WARN_COUNT":
   {
@@ -97,7 +97,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"⚠️je suis une boîte de problème",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
@@ -106,7 +106,7 @@
         "required": false
   }
   },
-
+de problème 
     "buildpacks": [
     {
       "url": "heroku/nodejs"
